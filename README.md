@@ -24,7 +24,7 @@ App requires Python 3.7+ without additional packages.
 1. Run script
     
     ```bash
-    python langtons_ant.py --grid_size 5
+    python langtons_ant.py --grid_size=5
     ```
    
    For all arguments run `python langtons_ant.py -h`
